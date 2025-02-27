@@ -1,2 +1,2 @@
 # chip_detection
-A CNN that classifys chip bags.
+This model utilizes a decision tree for image classification of chip bags.
